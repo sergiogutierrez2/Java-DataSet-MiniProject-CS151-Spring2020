@@ -1,5 +1,4 @@
 package edu.sjsu.gutierrez;
-
 /*
  * Sergio Gutierrez
  * CS49J
